@@ -126,3 +126,4 @@ sass:
 exclude:
   - LICENSE
   - README.md
+  - REAMDE-old.md
