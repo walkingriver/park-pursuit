@@ -27,8 +27,6 @@ We intend to add more parks (and not just Disney Parks) to the mix, along with t
 <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/find_us_on_header_05_2018.png" width="128" alt="Find us on FaceBook">
 
 
-{% include facebook.html %}
-
 
 ### Trademarks 
 Disney, Magic Kingdom, Epcot, Animal Kingdom, and Hollywood Studios are registered trademarks of the The Walt Disney Company, and are used herein only for descriptive purposes. They are not intended to imply any relationship, connection, authorization, or approval from the The Walt Disney Company. All photographs and images used in the app are either in the public domain, released under a Creative Commons license, or taken by private citizens and are used with permission.
