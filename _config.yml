@@ -34,7 +34,7 @@ app:
   # 640x1136px
 
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  creator_twitter: @walkingriver # uncomment if creator has a twitter account "@awesome-dev"
+  #creator_twitter: @walkingriver # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:

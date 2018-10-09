@@ -38,6 +38,19 @@
             </a>
             {% endif %}
           </div>
+          <div class="download-buttons">
+            <a
+              href="https://itunes.apple.com/app/id{{ site.app.ios_id }}?mt=8&at={% include apple-affiliate.html %}">
+              <img src="images/app-store.png" style="width:33px;" alt="App Store">
+            </a>
+            
+            {% if site.app.android_id %}
+            <a
+            href="https://play.google.com/store/apps/details?id={{ site.app.android_id }}">
+            <img src="images/play-store.png" style="width:33px;" alt="Google Play">
+            </a>
+            {% endif %}
+          </div>
         </div>
       </div>
 
