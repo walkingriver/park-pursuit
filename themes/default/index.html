@@ -23,7 +23,7 @@
           {% endif %}
 
           <p class="marketing-desc">{{ site.marketing_desc }}</p>
-          <div class="download-buttons">
+          <!-- <div class="download-buttons">
             <a
               class="download-btn btn btn-lg"
               href="https://itunes.apple.com/app/id{{ site.app.ios_id }}?mt=8&at={% include apple-affiliate.html %}">
@@ -37,17 +37,17 @@
               <i class="fa fa-android fa-lg" aria-hidden="true"></i> Google Play
             </a>
             {% endif %}
-          </div>
+          </div> -->
           <div class="download-buttons">
             <a
               href="https://itunes.apple.com/app/id{{ site.app.ios_id }}?mt=8&at={% include apple-affiliate.html %}">
-              <img src="images/app-store.png" style="height:55px;" alt="App Store">
+              <img src="images/app-store.png" style="height:50px;" alt="App Store">
             </a>
             
             {% if site.app.android_id %}
             <a
             href="https://play.google.com/store/apps/details?id={{ site.app.android_id }}">
-            <img src="images/play-store.png" style="height:55px;" alt="Google Play">
+            <img src="images/play-store.png" style="height:50px;" alt="Google Play">
             </a>
             {% endif %}
           </div>
