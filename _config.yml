@@ -96,7 +96,7 @@ download_button_text_color: white; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: Park Pursuit # Optional - Enter your site title
-description: A mobile visual scavenger hunt # Optional - Enter your site description
+description: A theme-park based mobile visual scavenger hunt -- now with Universal Studios Florida! # Optional - Enter your site description
 
 #
 # Google Analytics
